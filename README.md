@@ -20,5 +20,5 @@ Triage accuracy using the Korean Triage and Acuity Scale (KTAS) and evaluate the
 - Minimum, average, maximum length of stay in minutes, group and order by disposition;
 - Search for acute diagnosis and compare patients complaint with nurse diagnosis;
 - Creating views to store data for later visualization:
-    - All records partition by mistriage disposition;
-    - Records under and over triage.
+- All records partition by mistriage disposition;
+- Records under and over triage.
