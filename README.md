@@ -1,8 +1,7 @@
 # Emergency_Service_Triage_South_Korea
 Triage accuracy using the Korean Triage and Acuity Scale (KTAS) and evaluate the causes of mistriage - SQL Server.
 
-1. Data Source.
-   
+1. Data Source:
 -  Data source found on Kaggle, then linked to the original data set in PLOS Journals (Kaggle Link).
 - This cross-sectional retrospective study was based on 1267 systematically selected records of adult patients admitted to two emergency departments between October 2016 and September 2017.
 - Twenty-four variables were assessed, including chief complaints, vital signs according to the initial nursing records, and clinical outcomes.
@@ -10,7 +9,7 @@ Triage accuracy using the Korean Triage and Acuity Scale (KTAS) and evaluate the
 - Triage accuracy was evaluated by inter-rater agreement between the expert and emergency nurse KTAS scores.
 - CSV file with 1267 rows and 24 columns.
 
-3. Data Exploration
+2. Data Exploration:
 - In SQL, the main skills used were Joins, CTE, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
 - Get aquainted with the data and performed the main tasks:
 - Check for null values in KTAS_RN and KTAS_expert;
